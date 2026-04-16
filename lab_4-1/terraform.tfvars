@@ -1,4 +1,4 @@
 region          = "eu-frankfurt-1"
-tenancy_ocid     = "ocid1.tenancy.oc1..aaaaaaaaik6qxkakt77mmedauovoimfo2icwuzguh3afw5kgk6xef2dvzxna"
-compartment_ocid = "ocid1.compartment.oc1..aaaaaaaaw6tphm25ewmwdaf7zyihpto7tv5nmyoiy76l4akf4p4zimuuu66q"
-ssh_public_key   = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCt2AgSWptXb/6K1sL4eWcrJu8qJQ5PkACB9dYoxgZVTiyA0Xre2aNiwa0IJIBtbxe1V8Esht43He3HsZcRarGJ/PpJNVNkWFq0L2+pM5oEwod+uOxv2hBxsbCb5D7JHPbuzuN7s6xR+o9J5kDV+PBSJCIrKx/hvOkealPS+yWw4myb1+sEFPWlsWfZIGzYWky6YRTlfEalNWLZsbDAl4a0mO/2TTHxvlX/59x6lxFaYspo60K7mf9mCkQkFcC4DlLs6GbZZNSo23Ygur2n90hsHB/kJk3+ixQWc0IEAOyIEbWDM45NdNXfd8PNhM/0CG0auBxqwosDeONVmZPHvZkC1yliwoxFSUKURRY37JtP1xWBxO4kF6Sd2ZcmXlQEAx6m5E7zdQduddtziQYbj1OgYWkzeQtd3HhLWP4nGWMxFmL6MHMqbr2tjXCjQyKGFwHoSwGODqI4qL07y3aasdv9TcOTjz6JnNwi2nM062Yilhn6I7PAA2zr8DO9Od4yO8k= x_98630024@71522eef4b87"
+tenancy_ocid     = "<テナントのOCIDに変更>"
+compartment_ocid = "<自身に割り当てられているコンパートメントのOCIDに変更>"
+ssh_public_key   = "<VMに割り当てるSSH公開キーの中身をコピペ>"
